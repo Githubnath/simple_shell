@@ -49,5 +49,5 @@ help [built-in]	        Read documentation for a built-in.
 
 Credits
 
-All code written by  NATHANIEL EMENIKE  and SALOME BASSEY.
+All code written by:  NATHANIEL EMENIKE  and SALOME BASSEY.
 
